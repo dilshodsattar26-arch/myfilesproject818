@@ -1,0 +1,8 @@
+{
+    "name": "dbcontroller-service",
+    "version": "1.0.818",
+    "private": false,
+    "environment": "production",
+    "build_id": 989,
+    "allow_public_access": true
+}
